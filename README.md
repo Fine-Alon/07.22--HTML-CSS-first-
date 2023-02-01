@@ -1,6 +1,6 @@
 # 07.22--HTML-CSS-(first).
 First weblayout with using (HTML, CSS).
-7.2022- (first) "HTML,CSS weblayout".
+7.2022- (first) "HTML,CSS weblayout".                                                                       .                                     .
 Tools for this project:
                  *Figma.                                      *flex-box.
                  *validator(https://validator.w3.org/).       *pseudo Class&Elements.
