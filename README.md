@@ -2,7 +2,7 @@
 First weblayout with using (HTML, CSS).
 7.2022- (first) "HTML,CSS weblayout".                                                                                                        
 Tools for this project: .  .  .
-                 ---*Figma.                                      ---*flex-box. \n   
+                 ---*Figma.                                      ---*flex-box.   
                  ---*validator(https://validator.w3.org/).       ---*pseudo Class&Elements. 
                  ---*plagin Editor config for VS.code            ---*castom variables ( --var: red ).
                  ---*plagin Emmet.                               ---*functions: {  calc, min. max, filter:blur,grayscale }  
