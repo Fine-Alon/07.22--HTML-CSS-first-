@@ -1,14 +1,14 @@
 # 07.22--HTML-CSS-(first).
 First weblayout with using (HTML, CSS).
 7.2022- (first) "HTML,CSS weblayout".  \n                                                                                                       
-Tools for this project:
-                 *Figma.                                      *flex-box.
-                 *validator(https://validator.w3.org/).       *pseudo Class&Elements.
-                 *plagin Editor config for VS.code            *castom variables ( --var: red ). 
-                 *plagin Emmet.                               *functions: {  calc, min. max, filter:blur,grayscale }
-                 *BEM-Code Stile with Methodologies.          * columns, breackinside.
-                 *yoksel.github.io/html-tree - BEM  
-                 *markup elements.
+Tools for this project:  \n 
+                 *Figma.                                      *flex-box.  \n 
+                 *validator(https://validator.w3.org/).       *pseudo Class&Elements.  \n 
+                 *plagin Editor config for VS.code            *castom variables ( --var: red ). \n 
+                 *plagin Emmet.                               *functions: {  calc, min. max, filter:blur,grayscale }  \n 
+                 *BEM-Code Stile with Methodologies.          * columns, breackinside.   \n 
+                 *yoksel.github.io/html-tree - BEM  \n 
+                 *markup elements.    \n 
  *basic tags.              *scrolling.                                        *content & decorative imagrs
  *image tags.              *z-index (layers).                                 *text owerflow - (check)       
  *links.                   *flow.                                             *<audio>, <video>
